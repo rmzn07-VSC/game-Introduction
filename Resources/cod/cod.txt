@@ -1,0 +1,75 @@
+Sistem Gereksinimleri
+64-bit işlemci ve işletim sistemi gerektirir.
+İşletim Sistemi: Windows® 10 64 Bit (En güncel sürüm)
+İşlemci: Intel® Core™ i3-6100 / Core™ i5-2500K veya AMD Ryzen™ 3 1200.
+Bellek: 8 GB RAM.
+Ekran Kartı: DirectX 12.0 uyumlu sistemlerde NVIDIA® GeForce® GTX 960 veya AMD Radeon™ RX 470.
+DirectX: Sürüm 12.
+
+
+Call of Duty, Infinity Ward tarafından geliştirilip Activision 
+tarafından yayımlanan, II. Dünya Savaşı konulu birinci şahıs nişancı
+ türünde bir video oyunudur. Call of Duty serisinin ilk oyunu olmuş 
+ve çıktığı dönemde büyük beğeni toplamıştır. Oyun Medal of Honor:
+ Allied Assault'un yapımcıları tarafından yapılmış ve Medal of Honor
+ serisine sıkı bir rakip olmuştur. 1.1, 1.2, 1.3, 1.4 ve 1.5 sürümleri
+ bulunmaktadır. Bu sürümlerin en sonuncusu olan 1.5'te oyunun yapısı
+ geliştirilmiş ve yeni oyun haritaları eklenmiştir. Call of Duty 
+serisinin ilk oyunu olduğu için sonraları Call of Duty: Classic 
+olarak da adlandırılmıştır.
+
+
+12 Kasım 2007 tarihinden itibaren
+ Call of Duty'yi oynamak isteyen 
+Steam kullanıcılarının çevrim içi
+ oyun mağazasından satın alabilme
+ olanağı sağlanmıştır.
+
+Konusu
+Oyun, II. Dünya Savaşı'nın epik savaş alanı anlarının yoğunluğunu
+ sinematik bir yapı içinde, modern tarihi oluşturan müttefik ülkelerin 
+onlarca askerinin ve adı geçmeyen kahramanların gözünden anlatmaktadır.
+ İyi eğitimli bir ekibin üyesi olarak, koruma ateşi açarak ve yaralıları
+ güvenli bir yere çekerek savaş ortamının kaosunu tatma imkânı sunmaktadır.
+ Otantik ekip hareketleri ve taktiklerine ek olarak her bir askerin savaş 
+alanında ortaya çıkan kendine has karakterleri ve eğitimlerini gözler 
+önüne sermektedir.
+
+
+Er Joe Martin: Oyunun Amerikan bölümlerinde yönettiğimiz karakter.
+
+Er Evans: Oyunun İngiliz bölümlerinde yönettiğimiz karakter.
+
+Yüzbaşı Price: CoD severlerinin çoğunluğunun en sevdiği karakter. Call of Duty 2'de de karşımıza çıkar. Modern Warfare serilerindeki John Price ise onun torunudur.
+
+Çavuş Moody: Amerikan bölümlerinde karşımıza çıkan ve asker kampında bize talimat veren yetenekli asker.
+
+Yüzbaşı Foley: Price'ın olmadığı bölümlerde bize önderlik eden asker.
+
+Major Ingram: Bir bölümde kurtardığımız kıdemli bir asker. Call of Duty: United Offensive'da önemli bir yere sahiptir.
+
+Çavuş Waters: İngiliz bölümlerinin çoğunluğunda yer alan fakat bize pek yardımı dokunmayan asker. Jason Statham tarafından seslendirilmiştir.
+
+Er Elder: Bir bölümde ölüp ölmemesi size bağlı olan Amerikan asker.
+
+Er Mills: Sadece bir bölümde görünen İngiliz mühendis.
+
+
+Team Deathmatch: Herkesin takım halinde çatışması. Takım ruhunun yaşanabileceği ve birlikte hareket etmenin önemli olduğu son derece zevkli bir mod. Frag Limit’e ulaşan takım kazanıyor.
+
+Deathmatch: Herkesin bireysel savaştığı oyun türü. Tek amaç önünüze çıkan herkesi öldürmektedir.
+
+Search&Destroy: Raunda dayalı bir oyun tipidir. Her raund belirli bir 
+süreden oluşur. Takımlardan birinin amacı pusulada A ve B şeklinde belirtilen 
+yerlerden birine bomba yerleştirerek imha etmek iken; diğer
+ takımın amacı ise bu yerlerin patlatılmasını raund sonuna
+ kadar engellemektir.
+
+Behind Enemy Lines: Az sayıdaki Müttefik kuvvetinin (Allies), düşman hattının gerisinde sayıca üstün olan Alman askerleri (Axis) tarafından kuşatılmıştır. Müttefikler düşman hattının gerisinde ne kadar çok sağ kalır ve bu süre içinde ne kadar çok Alman askeri öldürürse o kadar çok puan kazanır. 
+
+
+Retrieval: Raunda dayalı bir oyun tipidir. Her raund belirli bir süreden oluşur. Takımlardan birinin amacı pusulada sarı bir yıldız ile gösterilen belgeyi ele geçirip, pusulada mavi bir kutu ile belirtilen emniyet noktasına raund süresi bitmeden ulaştırmaktır.
+
+
+
+

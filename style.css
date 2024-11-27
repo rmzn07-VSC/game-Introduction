@@ -1,0 +1,425 @@
+body {
+                animation: bodyrenk 5s infinite;  
+                font-family: Arial, sans-serif;
+                text-align: center;
+                padding: 0px;
+                justify-content: center;
+                align-items: center;
+                margin: 0px;
+				
+            }
+
+            
+
+            #messageBox {
+            display: none;
+            position: absolute;
+            border: 1px solid rgb(255, 255, 255);
+            
+            padding: 10px;
+            animation: rainbow 10s infinite;
+            background-color: rgba(0, 0, 0, 0.5);
+            color: rgba(0, 0, 0, 0.5);
+            }
+
+            h1 {
+            color: #333;
+            }
+            h2 {
+            color: #666;
+            }
+            
+            .container {
+                width: 45%;
+                padding: 20px;
+                animation: bodyrenk 5s infinite; 
+                animation: golgerenk 5s infinite;  
+                
+                margin: auto;
+                border-radius: 10%;
+            }
+            
+            strong {
+            font-weight: bold;
+            animation: rainbow-strong 5s;
+                animation-iteration-count: infinite;
+            }
+
+            @keyframes rainbow-strong {
+                0% {color: rgb(255, 128, 128);}
+                50% {color: rgb(255, 0, 0);}
+                100% {color:rgb(255, 128, 128);}
+            }
+
+            .rectangle-image {
+            max-width: 100%;
+            height: 420px;
+            transition: all 0.5s ease;
+            border-radius: 10%;
+            }
+
+            .rectangle-image-mc {
+                max-width: 100%;
+                height: 420px;
+                transition: all 0.5s ease;
+                border-radius: 10%;
+                }
+
+            .rectangle-image:hover {
+                transform: scale(1.1);
+                animation: shake 1.5s;
+                animation-iteration-count: infinite;
+            }
+
+            @keyframes shake {
+                0% { transform: translate(0.5px, 0.5px) rotate(0deg); }
+                10% { transform: translate(-0.5px, -1px) rotate(-0.5deg); }
+                20% { transform: translate(-1.5px, 0px) rotate(0.5deg); }
+                30% { transform: translate(1.5px, 1px) rotate(0deg); }
+                40% { transform: translate(0.5px, -0.5px) rotate(0.5deg); }
+                50% { transform: translate(-0.5px, 1px) rotate(-0.5deg); }
+                60% { transform: translate(-1.5px, 0.5px) rotate(0deg); }
+                70% { transform: translate(1.5px, 0.5px) rotate(-0.5deg); }
+                80% { transform: translate(-0.5px, -0.5px) rotate(0.5deg); }
+                90% { transform: translate(0.5px, 1px) rotate(0deg); }
+                100% { transform: translate(0.5px, -1px) rotate(-0.5deg); }
+            }
+
+
+            .rectangle-text {
+                text-align: center;
+                margin-top: 10px;
+                font-size: 20px; /* Yazı boyutunu büyütür */
+                font-weight: bold; /* Yazıyı kalınlaştırır */
+                color: #ffffff; /* Yazı rengini değiştirir */
+                text-shadow: 1px 1px #7c7c7c73; /* Yazıya gölge ekler */
+                width: 80%;
+            }
+            
+
+            .rectangle-container {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                padding: 20px;
+				
+            }
+
+            .rectangle {
+                width: 40%;
+                min-height: 60%; /* Bu değeri ihtiyaçlarınıza göre ayarlayabilirsiniz */
+                height: auto;
+                background-color: rgb(0, 0, 0);
+                border: 1px solid rgb(146, 146, 146);
+                margin-bottom: 10px;
+                border-radius: 10%;
+                animation: golgerenk 5s infinite;  
+                
+            }
+
+            .rectangle-video {
+                width: 40%;
+                min-height: 400px; /* Bu değeri ihtiyaçlarınıza göre ayarlayabilirsiniz */
+                height: auto;
+                background-color: rgb(0, 0, 0);
+                border: 1px solid rgb(146, 146, 146);
+                margin-bottom: 10px;
+                border-radius: 10%;
+                animation: golgerenk 5s infinite;  
+                
+            }
+            
+           
+
+            footer {
+            background-color: #ffffff79;
+            color: #1100ff;
+            padding: 10px 0;
+            border-radius: 10px;
+
+            
+            }
+
+            .above-rectangle {
+            text-align: left;
+            margin-bottom: 10px;
+            font-size: 30px; /* Yazı boyutunu büyütür */
+            font-weight: bold; /* Yazıyı kalınlaştırır */
+            color: #ffffff; /* Yazı rengini değiştirir */
+            }
+            .red {
+            color: red;
+            transition: all 1s;
+            }
+
+            .red:hover {
+                animation: rainbow 5s infinite;  
+            }
+            
+
+
+            @keyframes rainbow {
+                0% {color: rgb(255, 128, 128);}
+                14% {color: orange;}
+                28% {color: yellow;}
+                42% {color: lime;}
+                57% {color: rgb(0, 255, 234);}
+                71% {color: rgb(149, 0, 255);}
+                85% {color: violet;}
+                100% {color: rgb(255, 103, 103);}
+            }
+
+            @keyframes golgerenk {
+                0% {box-shadow: 0px 0px 0px rgb(51, 51, 51);}
+                50% {box-shadow: 10px 10px 100px rgb(0, 0, 0);}
+                100% {box-shadow: 0px 0px 0px rgb(44, 44, 44);}
+                
+            }
+            
+            @keyframes hakkimdarenk {
+                0% {color: rgb(23, 7, 241);}
+                50% {color: rgb(61, 14, 114);}
+                100% {color: rgb(48, 2, 253);}
+                
+            }
+            @keyframes bodyrenk {
+                0% {background-color: rgb(0, 0, 0);}
+                50% {background-color: rgb(24, 23, 23);}
+                100% {background-color: rgb(0, 0, 0);}
+                
+            }
+
+            .hakkimda {
+            &:hover {
+                color: #330be6;
+                font-size: 18px;
+                
+                
+            }
+            }
+
+            @keyframes colorchange {
+            0%   {color: white;}
+            50%  {color: yellow;}
+            100% {color: white;}
+            }
+
+            #animated-text {
+            animation-name: colorchange;
+            animation-duration: 10s;
+            animation-iteration-count: infinite;
+            }
+
+            
+           
+            
+
+            a {
+            text-decoration: none; /* Linkin altını çizmeyin */
+            color: #333; /* Linkin rengini ayarlayın */
+            }
+
+            .fade-in1 {
+            opacity: 0;
+            transition: opacity 1s;
+            }
+            .fade-in2 {
+            opacity: 0;
+            transition: opacity 2s;
+            }
+            .fade-in3 {
+            opacity: 0;
+            transition: opacity 3s;
+            }
+            .fade-in4 {
+            opacity: 0;
+            transition: opacity 4s;
+            }
+            .fade-in5 {
+            opacity: 0;
+            transition: opacity 5s;
+            }
+            .fade-in6 {
+            opacity: 0;
+            transition: opacity 6s;
+            }
+            .fade-in7 {
+            opacity: 0;
+            transition: opacity 7s;
+            }
+            .fade-in8 {
+            opacity: 0;
+            transition: opacity 8s;
+            }
+            .fade-in9 {
+            opacity: 0;
+            transition: opacity 9s;
+            }
+            .fade-in10 {
+            opacity: 0;
+            transition: opacity 10s;
+            }
+            .fade-in11{
+            opacity: 0;
+            transition: opacity 11s;
+            }
+            .fade-in12{
+            opacity: 0;
+            transition: opacity 12s;
+            }
+            .fade-in13{
+            opacity: 0;
+            transition: opacity 13s;
+            }
+            
+
+
+        
+        .top-menu {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            background-color: #000;
+            color: #fff;
+            padding: 20px;
+            
+            transition: all 0.5s ease;
+            z-index: 1000;  /* Eklenen satır */
+        }
+        .top-menu h1 {
+            margin: 0;
+            transition: all 0.5s ease;
+        }
+
+        .home-link {
+            font-weight: bold;  /* Eklenen satır */
+            font-size: 40px;
+            position: absolute;
+            bottom: 10px;
+            left: 10px;
+            color: #ffc400;
+        }
+        
+        .menu-image {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            right: 0;
+            width: auto;
+            height: 100%;
+            position: absolute;
+            bottom: 10px;
+            right: 40px;
+
+            
+        }
+
+
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1;
+            padding-top: 100px;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(0,0,0,0.4);
+          }
+          
+          .modal-content {
+            margin: auto;
+            display: block;
+            width: 80%;
+            max-width: 900px;
+          }
+          
+          .close {
+            position: absolute;
+            top: 15px;
+            right: 35px;
+            color: #f1f1f1;
+            font-size: 40px;
+            font-weight: bold;
+            transition: 0.3s;
+          }
+          
+          .close:hover,
+          .close:focus {
+            color: #bbb;
+            text-decoration: none;
+            cursor: pointer;
+          }
+
+
+          .ad {
+            width: 17%;
+            height: auto;  /* Yüksekliği otomatik olarak ayarla */
+            position: fixed;
+            top: 15%;  /* Div'i ekranın belirli bir yüzdesinde başlat */
+            bottom: 70;  /* Div'i ekranın altına yerleştir */
+            background-color: #f1f1f100;
+            border-radius: 10%;
+          }
+          
+          .ad-left {
+            left: 0;
+          }
+          
+          .ad-right {
+            right: 0;
+          }
+          
+          .main-content {
+            width: 60%;
+            margin: auto;
+          }
+
+          .ad img {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+
+        }
+
+        .rectangle2 {
+            width: 40%;
+         
+            height: 10%;
+            background-color: rgb(0, 0, 0);
+            border: 1px solid rgb(146, 146, 146);
+            margin-bottom: 10px;
+            border-radius: 10%;
+            animation: golgerenk 5s infinite;  
+            
+        }
+		
+		#myBtn {
+		display: none; /* Hidden by default */
+		position: fixed; /* Fixed/sticky position */
+		bottom: 20px; /* Place the button at the bottom of the page */
+		right: 30px; /* Place the button 30px from the right */
+		z-index: 99; /* Make sure it does not overlap */
+		border: none; /* Remove borders */
+		outline: none; /* Remove outline */
+		background-color: red; /* Set a background color */
+		color: white; /* Text color */
+		cursor: pointer; /* Add a mouse pointer on hover */
+		padding: 15px; /* Some padding */
+		border-radius: 10px; /* Rounded corners */
+		font-size: 18px; /* Increase font size */
+		}
+
+		#myBtn:hover {
+		background-color: #555; /* Add a dark-grey background on hover */
+		}
+
+
+
+        
+
+        
+
+          
